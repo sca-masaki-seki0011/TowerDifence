@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\makki\Desktop\Tower Defense\Game.h(15,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+  Game.vcxproj -> C:\Users\makki\Desktop\Tower Defense\Debug\Game.exe
+  C:\Users\makki\SDL2-2.26.5\lib\x86\SDL2.dll
+  1 個のファイルをコピーしました
